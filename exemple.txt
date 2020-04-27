@@ -1,0 +1,7 @@
+Noms	note1	note2	groupe
+alf	10	12	1
+joe	15	17	1
+foo	8	1	2
+bar	6	6	2
+tim	13	10	3
+hal	1	19	3
